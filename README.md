@@ -1,6 +1,7 @@
 
 <img width="1536" height="1024" alt="AWS HA architecture with CI_CD pipeline" src="https://github.com/user-attachments/assets/f9db7fe1-ca78-4022-92c4-511339dfa75e" />
 
+
 # Terraform HA AWS Infrastructure (Demo Project)
 
 ## Overview
